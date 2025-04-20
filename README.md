@@ -45,29 +45,5 @@ This project demonstrates the optimization of **Support Vector Machines (SVM)** 
 
 ---
 
-## 📁 Output Files
 
-- `nusvm_optimization_results.csv`: Stores best parameters and accuracy per sample.
-- `convergence_plot_top_run.png`: Visualization of accuracy improvement across iterations for the best-performing sample.
-
----
-
-## 🚀 Technologies Used
-
-- Python
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
----
-
-## 📌 Future Enhancements
-
-- Implement **grid search** and **Bayesian optimization** for comparison.
-- Explore additional kernels and SVM variants.
-- Try dimensionality reduction techniques (e.g., PCA) before classification.
-
----
 
