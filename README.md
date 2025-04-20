@@ -68,7 +68,7 @@ This project demonstrates the optimization of **Support Vector Machines (SVM)** 
 
 The figure below illustrates the accuracy trend over 100 iterations for the **best-performing sample**:
 
-![Accuracy over Iterations](c95ed632-b7e5-4455-8d62-7b6f849d700c.png)
+![Accuracy over Iterations](graph222.png)
 
 
 ## 📁 Files Included
